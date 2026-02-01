@@ -1,9 +1,9 @@
 # Settings & Dashboard UI
 
-![Video](https://github.com/user-attachments/assets/60164e6d-efe4-4632-8e9c-40e4f79aa2bb) 
+https://github.com/user-attachments/assets/60164e6d-efe4-4632-8e9c-40e4f79aa2bb
 
 A small frontend project that explores how user preferences shape the interface.
-The goal is clear architecture, predictable state, and decisions that hold up under scrutiny — not visual flair or backend integration.
+The goal is clear architecture, predictable state, and decisions that hold up under scrutiny, not visual flair or backend integration.
 
 ## What this is
 
